@@ -29,19 +29,19 @@ print("...")
 #----> 6-7
 people = {
 	'wife': {
-		'firstname': 'Tracey', 
+		'firstname': 'Tori', 
 		'lastname': 'Johnson', 
 		'age': 37, 
 		'city': 'Omaha',
 		},
 	'son': {
-		'firstname': 'Jacob',
+		'firstname': 'John',
 		'lastname': 'Johnson',
 		'age': 4,
 		'city': 'Omaha',
 		},
 	'pet': {
-		'firstname': 'Indy',
+		'firstname': 'Ike',
 		'lastname': 'Johnson',
 		'age': 5,
 		'city': 'Omaha',

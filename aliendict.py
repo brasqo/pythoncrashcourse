@@ -26,10 +26,10 @@
 # alien0['color'] = 'yellow'
 # print("Now the alien is " + alien0['color'] + ".")
 
-#----
+#----changing value in dictionary
 
-alien1 = {'xposition':0, 'yposition':25, 'speed':'medium'}
-print("Original x-position: " + str(alien1['xposition']))
+# alien1 = {'xposition':0, 'yposition':25, 'speed':'medium'}
+# print("Original x-position: " + str(alien1['xposition']))
 
 #Move the alien to the right.
 #Determine how far to move the alien based on it's current
@@ -49,7 +49,7 @@ print("Original x-position: " + str(alien1['xposition']))
 
 # print("New x-position: " + str(alien1['xposition']))
 
-#----
+#---- deleting key-value pair
 
 alien2 = {'color':'blue', 'points': 5}
 print(alien2)

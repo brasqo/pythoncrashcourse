@@ -15,3 +15,8 @@ for city, facts in cities.items():
 	fct = facts['fact']
 	print("\nA fun fact about " + city.title() + " is that " + 
 		fct.title() + ".")
+
+#--> 6-12
+
+print("...")
+

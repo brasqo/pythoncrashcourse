@@ -10,7 +10,7 @@ while polling_active:
 	name = input("\nWhats your name? ")
 	response = input("Which mountain would you like to climb someday? ")
 
-	#store the respose in the dictionary
+	#store the responses in the dictionary
 	responses[name] = response
 
 	#Find out if anyone else is going to take the poll
